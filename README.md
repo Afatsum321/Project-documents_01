@@ -170,14 +170,11 @@ The application uses a simple JSON structure for storing flashcards:
 ### Python Version
 - Developer: Mustafa Bozteke
 - Student ID: 210302348
-- Contact: [Add contact information if needed]
 
 ### C# Version
 - Developer: Doğukan Yurttürk
 - Student ID: 220302455
-- Contact: [Add contact information if needed]
 
 ### JavaScript Version
 - Developer: Omar Ben Sulaiman
 - Student ID: 230302506
-- Contact: [Add contact information if needed]
